@@ -1,0 +1,47 @@
+/* add your CSS here */
+ul{
+    list-style: none;
+    padding-left: 0;
+}
+
+h3{
+    font-size: 18pt;
+    margin-left: 20px;
+    padding: 1pt;
+}
+
+#info{
+    border: 1px solid rgb(200,200,200);
+    margin: 2pt;
+    width: 300px;
+    height: 310px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 15px;
+    padding: 4pt;
+    
+}
+
+.card{
+    border: 1px solid rgb(200,200,200);
+    width: 340px;
+    height: 635px;
+    box-shadow: 5px 5px 2px rgb(200,200,200);
+    
+
+}
+
+.pic{
+    text-align: center;
+    margin-bottom: 10pt;
+    padding: 1pt;
+}
+
+li span{
+    font-weight: bold;
+}
+
+#fact{
+    font-style: italic;
+}
+
